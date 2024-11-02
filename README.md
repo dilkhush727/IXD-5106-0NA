@@ -11,6 +11,7 @@ I will learn about design tools, processes, and best practices relevant to web d
 https://www.youtube.com/watch?v=ezldKx-jPag
 
 # Images
-![Figma Interface](Figma.png)
+![image](https://github.com/user-attachments/assets/e68373fa-f4de-4776-b288-ab3cd5231239)
+
 
 ***Notice:*** This repository showcases my weekly work for this course. Getting comfortable with Figma is crucial for developing effective user-centered designs.
